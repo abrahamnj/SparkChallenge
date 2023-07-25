@@ -1,0 +1,4 @@
+{
+    "name": "Docker PySpark",
+    "dockerFile": "Dockerfile"
+}
